@@ -1,50 +1,75 @@
-# Ahmed Selim Amin Kassem 👋
+<h1 align="center">👨‍💻 Ahmed Selim Amin Kassem 👨‍💻</h1>
 
-## About Me
+<p align="center">
+  💼 Full Stack .NET Developer | 🤖 AI & Machine Learning Enthusiast | 📊 BI & Data Analyst  
+</p>
 
-I am a passionate Computer Science graduate and currently a Full Stack .NET Developer at ITI. I have a strong interest in Machine Learning, Artificial Intelligence, and full-stack development. I enjoy learning new technologies and applying them to solve real-world problems with efficient, scalable solutions.
+---
 
-## Skills
+## 📌 About Me
 
-**Programming Languages:**  
-C# – Python – SQL
+🎓 I am a Computer Science graduate and currently working as a **Full Stack .NET Developer** at ITI.  
+🚀 I am passionate about building powerful software solutions using modern technologies like ASP.NET, SQL BI, and Machine Learning frameworks.  
+💡 I believe in using technology to solve real-world problems and constantly strive to expand my knowledge in AI, data science, and full-stack development.
 
-**Full Stack Development:**  
-ASP.NET Core – Entity Framework – MVC – HTML – CSS – JavaScript – Bootstrap
+---
 
-**Business Intelligence (BI):**  
-SQL BI (SSIS, SSAS, SSRS)
+## 🛠️ Skills & Technologies
 
-**Data Analysis & Machine Learning:**  
-- Data Analysis with Python  
-- Statistics & Probability  
-- Machine Learning Algorithms: Supervised & Unsupervised Learning  
-- Frameworks: Scikit-learn, TensorFlow, PyTorch  
-- Deep Learning: CNN, RNN  
-- Image Processing: OpenCV  
+### 👨‍💻 Programming Languages
+- C# ⚙️
+- Python 🐍
+- SQL 💾
 
-**Data Visualization:**  
-Power BI – Excel – Matplotlib – Seaborn – Plotly
+### 🌐 Full Stack Development
+- ASP.NET Core | MVC | Web API 🧩  
+- Entity Framework | LINQ | Razor Pages  
+- HTML | CSS | JavaScript | Bootstrap | jQuery 🌈
 
-## Projects
+### 📊 Business Intelligence
+- SSIS | SSAS | SSRS 🧠
+- Data Modeling | ETL Pipelines
 
-### Full Stack .NET Projects
+### 📈 Data Analysis & Machine Learning
+- Data Wrangling & Visualization using Pandas, Matplotlib, Seaborn 📊  
+- Machine Learning (Scikit-learn, TensorFlow, PyTorch) 🤖  
+- Deep Learning (CNNs, RNNs) 🧠  
+- Image Processing with OpenCV 📷
 
-- [E-Commerce Front End](https://github.com/ahmedselim48/E-commerce-APP-for-medical-products)
--   A responsive front-end for a medical products e-commerce platform using HTML, CSS, and JavaScript.
+### 📉 Data Visualization
+- Power BI  
+- Excel Dashboards  
+- Plotly
 
+---
 
-### Machine Learning Projects
+## 💼 Projects
 
-- [Uber Car Fare Prediction](link_to_project_repo):  
-  Developed a model to predict Uber fares using various input features such as distance and time. Implemented a user-friendly interface for data input and results visualization.
+### 🧠 Machine Learning Projects
 
-- [Diabetes Prediction](link_to_project_repo):  
-  Built a classification model to predict diabetes risk based on medical data using supervised learning techniques.
+- 🔍 [Uber Car Fare Prediction](link_to_project_repo):  
+  Trained a regression model to predict Uber fares based on distance, time, and location using real-world datasets. Deployed with a UI for live predictions.
 
+- 💉 [Diabetes Prediction](link_to_project_repo):  
+  Built a classification system to assess diabetes risk using health metrics. Achieved high accuracy with data preprocessing and feature engineering.
 
+---
 
-## Contact Me
+### 🌐 Full Stack .NET Projects
 
-- **LinkedIn:** [Ahmed Selim Kassem](https://www.linkedin.com/in/ahmed-selim-kassem-2a2733222/)  
-- **Email:** ahmedseliem48@gmail.com
+- 🛍️ [E-Commerce Front End](https://github.com/ahmedselim48/E-commerce-APP-for-medical-products):  
+  Developed a modern and responsive front-end for a medical products e-commerce website. Integrated with RESTful APIs for product management, user authentication, and shopping cart functionality.
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-selim-kassem-2a2733222/)  
+- 📧 Email: **ahmedseliem48@gmail.com**  
+- 🗂️ [My GitHub Portfolio](https://github.com/ahmedselim48)
+
+---
+
+<p align="center">
+  🚀 Let’s build the future with code, intelligence, and passion!
+</p>
