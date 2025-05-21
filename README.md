@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Ahmed Selim Banner" width="100%">
+</p>
+
 <h1 align="center">👨‍💻 Ahmed Selim Amin Kassem 👨‍💻</h1>
 
 <p align="center">
